@@ -15,7 +15,7 @@
   "type": "commonjs",
   "main": "index.js",
   "scripts": {
-    "test": "skills-npm --agents=github-copilot"
+    "test": "skills-npm"
   },
   "devDependencies": {
     "@slidev/cli": "^52.11.5",
