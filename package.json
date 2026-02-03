@@ -1,0 +1,24 @@
+{
+  "name": "skills-npm-agents",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/ota-meshi/skills-npm-agents#readme",
+  "bugs": {
+    "url": "https://github.com/ota-meshi/skills-npm-agents/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ota-meshi/skills-npm-agents.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "skills-npm --agents=github-copilot"
+  },
+  "devDependencies": {
+    "@slidev/cli": "^52.11.5",
+    "skills-npm": "^0.0.3"
+  }
+}
